@@ -1,4 +1,4 @@
-# ZR-Napalm-Burning-Cash
+# ZR Napalm Burning Cash
 
 Give player a cash while napalm still burning the victim.
 
